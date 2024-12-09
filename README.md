@@ -1,2 +1,4 @@
-# certificate_assignments
-All the files related to my certificate's progress 
+# Certificate's assignments
+
+Files that contributed to the completion of the certification program.
+
